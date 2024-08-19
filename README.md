@@ -1,6 +1,11 @@
 # LinkedIn Easy Apply Bot
 
 This Node.js bot automates the process of applying for "Easy Apply" jobs on LinkedIn.
+
+![Untitled-1](https://github.com/user-attachments/assets/0d5e14dd-104b-4f61-bf31-47a454fdfc14)
+
+
+
 ## Features
 
 - Automates the application process for LinkedIn's "Easy Apply" jobs.
