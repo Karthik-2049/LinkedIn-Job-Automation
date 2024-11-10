@@ -24,7 +24,7 @@ Ensure you have Node.js installed on your machine. You can download it from [Nod
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Butcher2004/LinkedIn-Job-Automation.git
+   git clone https://github.com/Karthik-2049/LinkedIn-Job-Automation.git
 
 2. **Install the required packages from package.json**
 
